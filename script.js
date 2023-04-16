@@ -7,5 +7,8 @@ const person = {
 const team = players;
 const team1 = players;
 const cap1 = person;
+const team = players;
+const team1 = players;
+const cap1 = person;
 
 
