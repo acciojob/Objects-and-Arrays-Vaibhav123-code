@@ -4,11 +4,8 @@ const person = {
   name: "John Doe",
   age: 80,
 };
-// let team =
-// const team1 = players;
+let team = players;
+const team1 = players;
+const cap1 = person;
 
-window.players = players;
-window.person = person;
-window.team = team;
-window.team1 = team1;
-window.cap1 = cap1;
+
